@@ -3,9 +3,11 @@
 ## Setup 
 
 ```
-$ npm install
+$ git clone https://github.com/jivette/react-google-auth.git
 
 $ cd react-google-auth
+
+$ npm install
 
 $ npm run start
 ```
